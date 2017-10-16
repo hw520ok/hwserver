@@ -1,6 +1,7 @@
 package main
 
 import (
+	"net/http"
 	"github.com/gorilla/websocket"
 )
 
@@ -10,5 +11,10 @@ var upgrade = websocket.Upgrader{
 
 }
 
+func connectHandle(w http.ResponseWriter, r *http.Request) {
+}
+
+
 func main () {
+
 }

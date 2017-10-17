@@ -1,21 +1,18 @@
 package main
 
 import (
-	"net/http"
-	"github.com/gorilla/websocket"
+	"github.com/astaxie/beego"
 )
 
-var upgrade = websocket.Upgrader {
-	ReadBufferSize:1024,
-	WriteBufferSize:1024,
-
+type MainController struct {
+	beego.Controller
 }
 
-func connectHandle(w http.ResponseWriter, r *http.Request) {
-
+func(this *MainController) Get() {
+	this.Ctx.WriteString("Hello world")
 }
-
 
 func main () {
-
+	beego.Router("/", &MainController{})
+	beego.Run()
 }

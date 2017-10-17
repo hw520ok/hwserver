@@ -10,4 +10,6 @@ go get -u -v github.com/newhook/go-symbols
 
 
 2.三方库
+go get -u -v github.com/beego/bee
+go get -u -v github.com/astaxie/beego
 go get -u -v github.com/gorilla/websocket

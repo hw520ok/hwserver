@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "beegoServer",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "remotePath": "",
+            "port": 2345,
+            "host": "127.0.0.1",
+            "program": "${workspaceRoot}\\src\\beegoServer\\main.go",
+            "cwd":"${workspaceRoot}/src/beegoServer",
+            "env": {},
+            "args": [],
+            "showLog": true
+        },
+        {
             "name": "hwserver",
             "type": "go",
             "request": "launch",

@@ -17,3 +17,66 @@
 2018/04/02 18:51:50 [info] read table equip_type .xlsx  
 2018/04/02 18:53:45 [info] read table equip_type .xlsx  
 2018/04/02 18:54:39 [info] read table equip_type .xlsx  
+2018/04/03 10:24:27 [info] read table equip_type .xlsx  
+2018/04/03 10:25:33 [info] read table equip_type .xlsx  
+2018/04/03 10:26:16 [info] read table equip_type .xlsx  
+2018/04/03 10:27:41 [info] read table equip_type .xlsx  
+2018/04/03 10:48:02 [info] read table equip_type .xlsx  
+2018/04/03 10:48:53 [info] read table equip_type .xlsx  
+2018/04/03 10:53:03 [info] read table equip_type .xlsx  
+2018/04/03 11:03:59 [info] read table equip_type .xlsx  
+2018/04/03 11:04:48 [info] read table equip_type .xlsx  
+2018/04/03 11:07:39 [info] read table equip_type .xlsx  
+2018/04/03 11:27:21 [info] read table equip_type .xlsx  
+2018/04/03 11:27:48 [info] read table equip_type .xlsx  
+2018/04/03 11:28:50 [info] read table equip_type .xlsx  
+2018/04/03 11:32:32 [info] read table equip_type .xlsx  
+2018/04/03 11:42:26 [info] read table equip_type .xlsx  
+2018/04/03 11:42:26 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:42:26 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:42:56 [info] read table equip_type .xlsx  
+2018/04/03 11:42:56 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:42:56 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:43:39 [info] read table equip_type .xlsx  
+2018/04/03 11:43:39 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:43:39 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:43:54 [info] read table equip_type .xlsx  
+2018/04/03 11:43:54 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:43:54 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:44:59 [info] read table equip_type .xlsx  
+2018/04/03 11:44:59 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:44:59 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:45:41 [info] read table equip_type .xlsx  
+2018/04/03 11:45:41 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:45:41 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:46:00 [info] read table equip_type .xlsx  
+2018/04/03 11:46:00 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:46:00 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:46:08 catch
+2018/04/03 11:47:03 [info] read table equip_type .xlsx  
+2018/04/03 11:47:03 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:47:03 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 11:48:53 [info] read table equip_type .xlsx  
+2018/04/03 11:48:53 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 11:48:53 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:43:15 [info] read table equip_type .xlsx  
+2018/04/03 14:43:15 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:43:15 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:56:05 [info] read table equip_type .xlsx  
+2018/04/03 14:56:05 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:56:05 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:56:43 [info] read table equip_type .xlsx  
+2018/04/03 14:56:43 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:56:43 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:57:02 [info] read table equip_type .xlsx  
+2018/04/03 14:57:02 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:57:02 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:57:20 [info] read table equip_type .xlsx  
+2018/04/03 14:57:20 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:57:20 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:57:37 [info] read table equip_type .xlsx  
+2018/04/03 14:57:37 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:57:37 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/03 14:58:53 [info] read table equip_type .xlsx  
+2018/04/03 14:58:53 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
+2018/04/03 14:58:53 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 

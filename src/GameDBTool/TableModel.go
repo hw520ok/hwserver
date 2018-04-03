@@ -8,6 +8,7 @@ import (
 type TableModel struct  {
 	data []*xlsx.Row
 	attrName []string
+	attrType []string
 	tableName string
 }
 
@@ -21,8 +22,16 @@ func (tm *TableModel) loadByXlsx(tableName string, sheet *xlsx.Sheet) {
 	for _, cell := range sheet.Rows[0].Cells {
 		tm.attrName = append(tm.attrName, cell.String())
 	}
+	for _, cell := range sheet.Rows[1].Cells {
+		if(cell.Value == "int") {
+			tm.attrType = append(tm.attrName, "int")
+		}else {
+			tm.attrType = append(tm.attrName, "string")
+		}
+	}
+
 	tm.data = make([]*xlsx.Row, len(sheet.Rows) - 2)
-	for i := 1 ; i < len(sheet.Rows) - 2; i ++ {
-		tm.data[i - 1] = sheet.Rows[i]
+	for i := 0 ; i < len(tm.data) - 1; i ++ {
+		tm.data[i] = sheet.Rows[i + 2]
 	}
 }

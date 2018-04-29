@@ -1,82 +1,107 @@
-2018/04/02 15:59:56 [ERR]os.Stat(). [Stat : The system cannot find the path specified.] 
-2018/04/02 16:00:50 [info] read table equip_type .xlsx  
-2018/04/02 16:04:33 [info] read table equip_type .xlsx  
-2018/04/02 16:10:03 [info] read table equip_type .xlsx  
-2018/04/02 17:33:29 [info] read table equip_type .xlsx  
-2018/04/02 17:55:38 [info] read table equip_type .xlsx  
-2018/04/02 17:56:54 [info] read table equip_type .xlsx  
-2018/04/02 18:32:10 [info] read table equip_type .xlsx  
-2018/04/02 18:32:49 [info] read table equip_type .xlsx  
-2018/04/02 18:33:42 [info] read table equip_type .xlsx  
-2018/04/02 18:34:23 [info] read table equip_type .xlsx  
-2018/04/02 18:35:38 [info] read table equip_type .xlsx  
-2018/04/02 18:42:57 [info] read table equip_type .xlsx  
-2018/04/02 18:45:11 [info] read table equip_type .xlsx  
-2018/04/02 18:48:58 [info] read table equip_type .xlsx  
-2018/04/02 18:50:49 [info] read table equip_type .xlsx  
-2018/04/02 18:51:50 [info] read table equip_type .xlsx  
-2018/04/02 18:53:45 [info] read table equip_type .xlsx  
-2018/04/02 18:54:39 [info] read table equip_type .xlsx  
-2018/04/03 10:24:27 [info] read table equip_type .xlsx  
-2018/04/03 10:25:33 [info] read table equip_type .xlsx  
-2018/04/03 10:26:16 [info] read table equip_type .xlsx  
-2018/04/03 10:27:41 [info] read table equip_type .xlsx  
-2018/04/03 10:48:02 [info] read table equip_type .xlsx  
-2018/04/03 10:48:53 [info] read table equip_type .xlsx  
-2018/04/03 10:53:03 [info] read table equip_type .xlsx  
-2018/04/03 11:03:59 [info] read table equip_type .xlsx  
-2018/04/03 11:04:48 [info] read table equip_type .xlsx  
-2018/04/03 11:07:39 [info] read table equip_type .xlsx  
-2018/04/03 11:27:21 [info] read table equip_type .xlsx  
-2018/04/03 11:27:48 [info] read table equip_type .xlsx  
-2018/04/03 11:28:50 [info] read table equip_type .xlsx  
-2018/04/03 11:32:32 [info] read table equip_type .xlsx  
-2018/04/03 11:42:26 [info] read table equip_type .xlsx  
-2018/04/03 11:42:26 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:42:26 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:42:56 [info] read table equip_type .xlsx  
-2018/04/03 11:42:56 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:42:56 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:43:39 [info] read table equip_type .xlsx  
-2018/04/03 11:43:39 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:43:39 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:43:54 [info] read table equip_type .xlsx  
-2018/04/03 11:43:54 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:43:54 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:44:59 [info] read table equip_type .xlsx  
-2018/04/03 11:44:59 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:44:59 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:45:41 [info] read table equip_type .xlsx  
-2018/04/03 11:45:41 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:45:41 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:46:00 [info] read table equip_type .xlsx  
-2018/04/03 11:46:00 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:46:00 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:46:08 catch
-2018/04/03 11:47:03 [info] read table equip_type .xlsx  
-2018/04/03 11:47:03 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:47:03 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 11:48:53 [info] read table equip_type .xlsx  
-2018/04/03 11:48:53 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 11:48:53 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:43:15 [info] read table equip_type .xlsx  
-2018/04/03 14:43:15 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:43:15 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:56:05 [info] read table equip_type .xlsx  
-2018/04/03 14:56:05 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:56:05 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:56:43 [info] read table equip_type .xlsx  
-2018/04/03 14:56:43 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:56:43 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:57:02 [info] read table equip_type .xlsx  
-2018/04/03 14:57:02 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:57:02 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:57:20 [info] read table equip_type .xlsx  
-2018/04/03 14:57:20 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:57:20 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:57:37 [info] read table equip_type .xlsx  
-2018/04/03 14:57:37 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:57:37 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
-2018/04/03 14:58:53 [info] read table equip_type .xlsx  
-2018/04/03 14:58:53 [ERR]xlsx file not found. [E:\github\hwserver\bin\xlsx\~$equip_type.xlsx] 
-2018/04/03 14:58:53 [ERR]filepath.Walk fail. [open E:\github\hwserver\bin\xlsx\~$equip_type.xlsx: The process cannot access the file because it is being used by another process.] 
+2018/04/28 15:32:33 hello world
+2018/04/28 15:32:33 sql: Scan error on column index 4: unsupported Scan, storing driver.Value type <nil> into type *string
+2018/04/28 15:32:33 101
+2018/04/28 15:32:33 剑刃风暴
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00001
+2018/04/28 15:32:33 以自身为中心，疯狂的旋转大剑，每秒对敌人造成[ubb color=#00ea21]{phy_harm}[/ubb][ubb color=#f4a01d]（+115%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]。
+2018/04/28 15:32:33 7000
+2018/04/28 15:32:33 1000011
+2018/04/28 15:32:33 102
+2018/04/28 15:32:33 跳斩
+2018/04/28 15:32:33 9
+2018/04/28 15:32:33 skill_00002
+2018/04/28 15:32:33 短暂畜力后以劈砍姿势跳向敌人，对敌人造成[ubb color=#00ea21]{phy_harm}[/ubb][ubb color=#f4a01d]（+98%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]。
+2018/04/28 15:32:33 7000
+2018/04/28 15:32:33 1000021
+2018/04/28 15:32:33 103
+2018/04/28 15:32:33 巨剑轰击
+2018/04/28 15:32:33 23
+2018/04/28 15:32:33 skill_00003
+2018/04/28 15:32:33 转身畜力后，挥砍目标，对敌人造成[ubb color=#00ea21]{phy_harm}[/ubb][ubb color=#f4a01d]（+96%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]及[ubb color=#00ea21]{real_harm}[/ubb][ubb color=#f4a01d]（+34%攻击加成）[/ubb]的[ubb color=#f4a01d]真实伤害[/ubb]。
+2018/04/28 15:32:33 11000
+2018/04/28 15:32:33 1000031,1000032
+2018/04/28 15:32:33 201
+2018/04/28 15:32:33 多重射击
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00011
+2018/04/28 15:32:33 发射六条射线，对敌人造成[ubb color=#00ea21]{magic_harm}[/ubb][ubb color=#f4a01d]（+95%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]。
+2018/04/28 15:32:33 6000
+2018/04/28 15:32:33 2000011
+2018/04/28 15:32:33 202
+2018/04/28 15:32:33 死亡闪避
+2018/04/28 15:32:33 9
+2018/04/28 15:32:33 skill_00012
+2018/04/28 15:32:33 将能量压缩至枪内，强大的后坐力使得自身后退一段距离，造成[ubb color=#00ea21]{phy_harm}[/ubb][ubb color=#f4a01d]（+93%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]。
+2018/04/28 15:32:33 7000
+2018/04/28 15:32:33 2000021
+2018/04/28 15:32:33 203
+2018/04/28 15:32:33 能量禁锢
+2018/04/28 15:32:33 23
+2018/04/28 15:32:33 skill_00013
+2018/04/28 15:32:33 短暂畜力后发射一条禁锢弹，对敌人造成[ubb color=#00ea21]{magic_harm}[/ubb][ubb color=#f4a01d]（+85%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]及[ubb color=#00ea21]{real_harm}[/ubb][ubb color=#f4a01d]（+28%攻击加成）[/ubb]的[ubb color=#f4a01d]真实伤害[/ubb]。
+2018/04/28 15:32:33 11000
+2018/04/28 15:32:33 2000031,2000032
+2018/04/28 15:32:33 301
+2018/04/28 15:32:33 能量炮弹
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00021
+2018/04/28 15:32:33 向前方发射炮弹，对敌人造成[ubb color=#00ea21]{magic_harm}[/ubb][ubb color=#f4a01d]（+105%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]。
+2018/04/28 15:32:33 6000
+2018/04/28 15:32:33 3000011
+2018/04/28 15:32:33 302
+2018/04/28 15:32:33 粒子冲击
+2018/04/28 15:32:33 9
+2018/04/28 15:32:33 skill_00022
+2018/04/28 15:32:33 短暂畜力后对范围内的敌人造成击退效果，对敌人造成[ubb color=#00ea21]{magic_harm}[/ubb][ubb color=#f4a01d]（+45%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]。
+2018/04/28 15:32:33 7000
+2018/04/28 15:32:33 3000021
+2018/04/28 15:32:33 303
+2018/04/28 15:32:33 反辐射导弹
+2018/04/28 15:32:33 23
+2018/04/28 15:32:33 skill_00023
+2018/04/28 15:32:33 短暂畜力后发射反辐射导弹，对敌人造成[ubb color=#00ea21]{magic_harm}[/ubb][ubb color=#f4a01d]（+92%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]及[ubb color=#00ea21]{real_harm}[/ubb][ubb color=#f4a01d]（+32%攻击加成）[/ubb]的[ubb color=#f4a01d]真实伤害[/ubb]。
+2018/04/28 15:32:33 11000
+2018/04/28 15:32:33 3000031,3000032
+2018/04/28 15:32:33 401
+2018/04/28 15:32:33 雷霆爪影
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00021
+2018/04/28 15:32:33 向前方挥舞钢爪，对敌人造成[ubb color=green]{phy_harm}[/ubb][ubb color=#f4a01d]（+150%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]。
+2018/04/28 15:32:33 3000
+2018/04/28 15:32:33 4000011
+2018/04/28 15:32:33 501
+2018/04/28 15:32:33 魔印电击
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00022
+2018/04/28 15:32:33 向前方发射电击，产生电击雷印，对敌人造成[ubb color=green]{phy_harm}[/ubb][ubb color=#f4a01d]（+150%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]。
+2018/04/28 15:32:33 3000
+2018/04/28 15:32:33 5000011
+2018/04/28 15:32:33 601
+2018/04/28 15:32:33 时空黑界
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00023
+2018/04/28 15:32:33 向前方发射炮弹，使敌人悬浮搅动，对敌人造成[ubb color=green]{magic_harm}[/ubb][ubb color=#f4a01d]（+150%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]。
+2018/04/28 15:32:33 3000
+2018/04/28 15:32:33 6000011
+2018/04/28 15:32:33 701
+2018/04/28 15:32:33 幻影绝息斩
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00024
+2018/04/28 15:32:33 转身畜力后，瞬间挥砍向目标，对敌人造成[ubb color=green]{phy_harm}[/ubb][ubb color=#f4a01d]（+150%攻击加成）[/ubb]的[ubb color=#ff6262]物理伤害[/ubb]。
+2018/04/28 15:32:33 3000
+2018/04/28 15:32:33 7000011
+2018/04/28 15:32:33 801
+2018/04/28 15:32:33 地爆天星
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00025
+2018/04/28 15:32:33 短暂畜力后对范围内的敌人造成爆炸效果，对敌人造成[ubb color=green]{magic_harm}[/ubb][ubb color=#f4a01d]（+150%攻击加成）[/ubb]的[ubb color=#51afff]能量伤害[/ubb]。
+2018/04/28 15:32:33 3000
+2018/04/28 15:32:33 8000011
+2018/04/28 15:32:33 802
+2018/04/28 15:32:33 时光瞬影
+2018/04/28 15:32:33 0
+2018/04/28 15:32:33 skill_00026
+2018/04/28 15:32:33 向前方瞬移
+2018/04/28 15:32:33 3000
+2018/04/28 15:32:33 8000021
